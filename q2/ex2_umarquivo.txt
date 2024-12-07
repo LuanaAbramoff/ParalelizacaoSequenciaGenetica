@@ -1,0 +1,6 @@
+238199776
+Transcrição concluída e salva em rna_transcrito.txt
+Tempo de leitura do arquivo: 3.50552 segundos
+Tempo de distribuição dos dados: 0.0239444 segundos
+Tempo de transcrição de DNA para RNA: 0.155002 segundos
+Tempo total de execução: 10.0908 segundos

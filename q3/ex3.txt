@@ -1,0 +1,4 @@
+Número total de proteínas inicializadas (AUG): 41197534
+Tempo de leitura do arquivo: 19.2232 segundos
+Tempo de contagem dos códons: 2.10298 segundos
+Tempo total de execução: 21.5944 segundos

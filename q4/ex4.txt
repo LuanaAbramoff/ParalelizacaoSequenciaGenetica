@@ -1,0 +1,4 @@
+Tempo de Leitura: 41.7485 segundos
+Tempo de Distribuição: 0.19511 segundos
+Tempo de Tradução: 21.8298 segundos
+Tempo Total: 68.8295 segundos

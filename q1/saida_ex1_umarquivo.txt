@@ -1,0 +1,7 @@
+O tempo gasta com a leitura na implementação 1: 0.668876
+Contagem total de bases:
+A: 22799633
+T: 22772026
+C: 16073321
+G: 16056968
+O tempo de execução do programa foi de 0.823569 segundos

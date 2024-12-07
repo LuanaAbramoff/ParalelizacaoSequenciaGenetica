@@ -1,0 +1,4 @@
+Transcrição concluída e salva em rna_transcrito.txt
+Tempo total de leitura dos arquivos: 4.19494 segundos
+Tempo total de transcrição: 1.99786 segundos
+Tempo total de execução: 9.28986 segundos
